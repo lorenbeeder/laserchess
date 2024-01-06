@@ -1,5 +1,5 @@
 # laserchess
-An MS-DOS implementation of a game called Laser Chess. written in 1990 for Turbo Pascal.
+An MS-DOS implementation of a game called Laser Chess. written in 1990 in Turbo Pascal.
 
 Laser Chess was originally published in the June 1987 issue of Compute! magazine: https://archive.org/details/1987-06-compute-magazine
 
